@@ -1,0 +1,14 @@
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\bin\Debug\net10.0\SmartFarm.exe
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\bin\Debug\net10.0\SmartFarm.deps.json
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\bin\Debug\net10.0\SmartFarm.runtimeconfig.json
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\bin\Debug\net10.0\SmartFarm.dll
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\bin\Debug\net10.0\SmartFarm.pdb
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\obj\Debug\net10.0\SmartFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\obj\Debug\net10.0\SmartFarm.AssemblyInfoInputs.cache
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\obj\Debug\net10.0\SmartFarm.AssemblyInfo.cs
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\obj\Debug\net10.0\SmartFarm.csproj.CoreCompileInputs.cache
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\obj\Debug\net10.0\SmartFarm.dll
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\obj\Debug\net10.0\refint\SmartFarm.dll
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\obj\Debug\net10.0\SmartFarm.pdb
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\obj\Debug\net10.0\SmartFarm.genruntimeconfig.cache
+C:\Users\CZB311\Desktop\MyApp\SmartFarm\obj\Debug\net10.0\ref\SmartFarm.dll
